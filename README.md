@@ -1,2 +1,2 @@
 # Differential-Drive-MPC
-An MPC using CPPAD and IPOPT solver
+An MPC (model predictive control) using CPPAD and IPOPT solver
